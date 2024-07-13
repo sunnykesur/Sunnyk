@@ -7,3 +7,6 @@ print(a+b)
 c=10
 d=5
 print(c-d)
+
+#Gitpush data
+print(c*d)
